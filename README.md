@@ -16,6 +16,6 @@
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="https://discord.gg/UQZR852tHw">Discord</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/Darimu Marr " style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<p><a target="_blank" href="https://www.facebook.com/darimu.marr " style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/damarrifaldimutakin" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@GFLINE28" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
