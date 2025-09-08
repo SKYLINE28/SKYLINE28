@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Damar Rifaldi Mutakin</h1>
-<p>i'm student institut teknologi sumatra informatic engineer. I've just entered the world of programming and coding,and I hope all of you can help me develop my interest and talent in this field.</p>
+<p>i'm student institut teknologi sumatera informatic engineer 2025. I've just entered the world of programming and coding,and I hope all of you can help me develop my interest and talent in this field.</p>
 <h2>🚀 Studying Languages and Tool</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
