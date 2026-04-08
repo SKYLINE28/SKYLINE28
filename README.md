@@ -1,33 +1,94 @@
-  <h2 id="hi--im-ankit-warbhe">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I’m <a href="https://ankitwarbhe.github.io">Ankit Warbhe!</a></h2>
-<p><img src="https://img.shields.io/twitter/follow/ankitwarbhe?style=social" alt="Twitter Follow"></p>
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
- <a href="https://dev.to/ankitwarbhe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26">
-</a>
-<a href="https://twitter.com/ankitwarbhe">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
-</a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
-  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-<a href="https://www.instagram.com/ankit.warbhe/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="https://devfolio.co/@ankitwarbhe/">
-  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png">
-</a><br><br>
-<ul>
-<li>:telescope: I’m currently studying BTech in CSE 💻;</li>
-<li>:hourglass_flowing_sand: Learning ML and DL;</li>
-<li>💬 I love connecting with different people so if you want any help, I’ll be happy to meet you more! :) ;</li>
-<li>📫 How to reach me: <a href="mailto:ankitwarbheofficial@gmail.com">ankitwarbheofficial@gmail.com</a>;
-<br><br><br><br></li>
-</ul>
-<p><img src="https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet" alt=""> <img src="https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow" alt=""> <img src="https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100" alt=""> <img src="https://img.shields.io/badge/Business%20English-%7C-yellowgreen" alt=""> <img src="https://img.shields.io/badge/SQL-%7C-orange" alt=""> <img src="https://img.shields.io/badge/Cloud%20Developer-%7C-blue" alt=""><a href="https://github.com/ankitwarbhe">
-<img src="https://komarev.com/ghpvc/?username=ankitwarbhe&amp;label=Views&amp;color=blue&amp;style=plastic" alt="ankitwarhe">
-</a></p>
-<p><br><br><br><br>
-<img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=true&amp;line_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite"><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&amp;hide_title=true&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,D783FF&amp;theme=graywhite"></p>
+  <h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<p><img src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" alt="Twitter Follow">
+<a href="https://www.linkedin.com/in/anmol-p-singh/"><img src="https://img.shields.io/badge/-anmol-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/anmol-p-singh/" alt="Linkedin: thaianebraga"></a>
+<img src="https://img.shields.io/github/followers/anmol098?label=Follow&amp;style=social" alt="GitHub followers">
+<img src="https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098" alt="">
+<img src="https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
+<p>👇 Hit in your console or terminal to connect with me.</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> anmol</span></span></code></pre>
+<h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> anmol</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#E1E4E8">    pronouns: </span><span style="color:#9ECBFF">"He"</span><span style="color:#F97583"> |</span><span style="color:#9ECBFF"> "Him"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Typescript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"web dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"tech"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"app dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"photography"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">    technologies: {</span></span>
+<span class="line"><span style="color:#E1E4E8">        mobileApp: [</span><span style="color:#9ECBFF">"Android App"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">        frontEnd: {</span></span>
+<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"Vue"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Nuxt"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">            css: [</span><span style="color:#9ECBFF">"materialize"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"vuetify"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"bootstrap"</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#E1E4E8">        },</span></span>
+<span class="line"><span style="color:#E1E4E8">        backEnd: {</span></span>
+<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"node"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"express"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SuiteScript"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">            python: [</span><span style="color:#9ECBFF">"flask"</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#E1E4E8">        },</span></span>
+<span class="line"><span style="color:#E1E4E8">        devOps: [</span><span style="color:#9ECBFF">"AWS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Docker🐳"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Route53"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Nginx"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">        databases: [</span><span style="color:#9ECBFF">"mongo"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"MySql"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"sqlite"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">        misc: [</span><span style="color:#9ECBFF">"Firebase"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Socket.IO"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"selenium"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"open-cv"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SuiteApp"</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#E1E4E8">    },</span></span>
+<span class="line"><span style="color:#E1E4E8">    architecture: [</span><span style="color:#9ECBFF">"Serverless Architecture"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Progressive web applications"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Single page applications"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"I am developing Extension for NetSuite using SuiteScript2.0"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"There are two ways to write error-free programs; only the third one works"</span></span>
+<span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> 😊</em></p>
 <hr>
-<p>Credit: <a href="https://github.com/ankitwarbhe">ankitwarbhe</a></p>
-<p>Last Edited on: 23/09/2020</p> 
+<!--START_SECTION:waka-->
+<p><img src="http://img.shields.io/badge/Profile%20Views-1621-blue" alt="Profile Views"></p>
+<p><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue" alt="Lines of code"></p>
+<p><strong>🐱 My Github Data</strong></p>
+<blockquote>
+<p>🏆 598 Contributions in the Year 2020</p>
+<p>📦 340.7 kB Used in Github’s Storage</p>
+<p>💼 Opted to Hire</p>
+<p>📜 33 Public Repositories</p>
+<p>🔑 16 Private Repositories</p>
+</blockquote>
+<p><strong>I’m a Night 🦉</strong></p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% </span></span>
+<span class="line"><span>🌆 Daytime    153 commits    ████████░░░░░░░░░░░░░░░░░   31.55% </span></span>
+<span class="line"><span>🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   30.93% </span></span>
+<span class="line"><span>🌙 Night      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89%</span></span>
+<span class="line"><span></span></span></code></pre>
+<p>📅 <strong>I’m Most Productive on Sunday</strong></p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% </span></span>
+<span class="line"><span>Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% </span></span>
+<span class="line"><span>Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% </span></span>
+<span class="line"><span>Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% </span></span>
+<span class="line"><span>Friday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% </span></span>
+<span class="line"><span>Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% </span></span>
+<span class="line"><span>Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.82%</span></span>
+<span class="line"><span></span></span></code></pre>
+<p>📊 <strong>This Week I Spent My Time On</strong></p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Asia/Kolkata</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>💬 Programming Languages: </span></span>
+<span class="line"><span>Vue.js                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.87% </span></span>
+<span class="line"><span>JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% </span></span>
+<span class="line"><span>Python                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   18.72% </span></span>
+<span class="line"><span>JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% </span></span>
+<span class="line"><span>Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>🔥 Editors: </span></span>
+<span class="line"><span>WebStorm                 12 hrs 36 mins      ███████████████████░░░░░░   78.58% </span></span>
+<span class="line"><span>PyCharm                  3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.27% </span></span>
+<span class="line"><span>Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>💻 Operating System: </span></span>
+<span class="line"><span>Windows                  16 hrs 2 mins       █████████████████████████   100.0%</span></span>
+<span class="line"><span></span></span></code></pre>
+<p><strong>I Mostly Code in Vue</strong></p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Vue                      11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% </span></span>
+<span class="line"><span>JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% </span></span>
+<span class="line"><span>Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% </span></span>
+<span class="line"><span>Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% </span></span>
+<span class="line"><span>PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%</span></span>
+<span class="line"><span></span></span></code></pre>
+<p><strong>Timeline</strong></p>
+<p><img src="https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png" alt="Chart not found"></p>
+<!--END_SECTION:waka-->
+<p><strong>These Readme stats are generated using github action <a href="https://github.com/anmol098/waka-readme-stats">awesome-readme-stats</a></strong></p>
+<hr>
+<p>Credits: <a href="https://github.com/anmol098">anmol098</a></p>
+<p>Last Edited on: 30/08/2020</p> 
