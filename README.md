@@ -1,94 +1,68 @@
-  <h2>नमस्ते (Namaste)🙏🏻, I'm Damar Rifaldi Mutakin! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<p><img src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" alt="Twitter Follow">
-<a href="https://www.linkedin.com/in/anmol-p-singh/"><img src="https://img.shields.io/badge/-anmol-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/anmol-p-singh/" alt="Linkedin: thaianebraga"></a>
-<img src="https://img.shields.io/github/followers/anmol098?label=Follow&amp;style=social" alt="GitHub followers">
-<img src="https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098" alt="">
-<img src="https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg" alt="Waka Readme"></p>
-<p>👇 Hit in your console or terminal to connect with me.</p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> anmol</span></span></code></pre>
-<h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> anmol</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#E1E4E8">    pronouns: </span><span style="color:#9ECBFF">"He"</span><span style="color:#F97583"> |</span><span style="color:#9ECBFF"> "Him"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Typescript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"web dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"tech"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"app dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"photography"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    technologies: {</span></span>
-<span class="line"><span style="color:#E1E4E8">        mobileApp: [</span><span style="color:#9ECBFF">"Android App"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">        frontEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"Vue"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Nuxt"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">            css: [</span><span style="color:#9ECBFF">"materialize"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"vuetify"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"bootstrap"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        backEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"node"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"express"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SuiteScript"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">            python: [</span><span style="color:#9ECBFF">"flask"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        devOps: [</span><span style="color:#9ECBFF">"AWS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Docker🐳"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Route53"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Nginx"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">        databases: [</span><span style="color:#9ECBFF">"mongo"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"MySql"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"sqlite"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">        misc: [</span><span style="color:#9ECBFF">"Firebase"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Socket.IO"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"selenium"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"open-cv"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"php"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SuiteApp"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">    },</span></span>
-<span class="line"><span style="color:#E1E4E8">    architecture: [</span><span style="color:#9ECBFF">"Serverless Architecture"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Progressive web applications"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Single page applications"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"I am developing Extension for NetSuite using SuiteScript2.0"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"There are two ways to write error-free programs; only the third one works"</span></span>
-<span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>
+
+
+### <h2>I,m Damar Rifaldi Mutakin<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><p><em> Junior Software Engineer and Student Institutet tecnologi Sumatera   
+<div align="center">
+<img src="" align="center" height="" width="600" />
+</div>  
+  
+
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> 😊</em></p>
-<hr>
-<!--START_SECTION:waka-->
-<p><img src="http://img.shields.io/badge/Profile%20Views-1621-blue" alt="Profile Views"></p>
-<p><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue" alt="Lines of code"></p>
-<p><strong>🐱 My Github Data</strong></p>
-<blockquote>
-<p>🏆 598 Contributions in the Year 2020</p>
-<p>📦 340.7 kB Used in Github’s Storage</p>
-<p>💼 Opted to Hire</p>
-<p>📜 33 Public Repositories</p>
-<p>🔑 16 Private Repositories</p>
-</blockquote>
-<p><strong>I’m a Night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% </span></span>
-<span class="line"><span>🌆 Daytime    153 commits    ████████░░░░░░░░░░░░░░░░░   31.55% </span></span>
-<span class="line"><span>🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   30.93% </span></span>
-<span class="line"><span>🌙 Night      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📅 <strong>I’m Most Productive on Sunday</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% </span></span>
-<span class="line"><span>Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% </span></span>
-<span class="line"><span>Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% </span></span>
-<span class="line"><span>Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% </span></span>
-<span class="line"><span>Friday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% </span></span>
-<span class="line"><span>Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% </span></span>
-<span class="line"><span>Sunday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.82%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Asia/Kolkata</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>💬 Programming Languages: </span></span>
-<span class="line"><span>Vue.js                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   34.87% </span></span>
-<span class="line"><span>JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69% </span></span>
-<span class="line"><span>Python                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   18.72% </span></span>
-<span class="line"><span>JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% </span></span>
-<span class="line"><span>Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>🔥 Editors: </span></span>
-<span class="line"><span>WebStorm                 12 hrs 36 mins      ███████████████████░░░░░░   78.58% </span></span>
-<span class="line"><span>PyCharm                  3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.27% </span></span>
-<span class="line"><span>Android Studio           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>💻 Operating System: </span></span>
-<span class="line"><span>Windows                  16 hrs 2 mins       █████████████████████████   100.0%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p><strong>I Mostly Code in Vue</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Vue                      11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21% </span></span>
-<span class="line"><span>JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% </span></span>
-<span class="line"><span>Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% </span></span>
-<span class="line"><span>Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% </span></span>
-<span class="line"><span>PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p><strong>Timeline</strong></p>
-<p><img src="https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png" alt="Chart not found"></p>
-<!--END_SECTION:waka-->
-<p><strong>These Readme stats are generated using github action <a href="https://github.com/anmol098/waka-readme-stats">awesome-readme-stats</a></strong></p>
-<hr>
-<p>Credits: <a href="https://github.com/anmol098">anmol098</a></p>
-<p>Last Edited on: 30/08/2020</p> 
+<hr>  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/darimu.mar" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/SKYLINE28" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@GFLINE28" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
