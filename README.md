@@ -3,6 +3,7 @@
 ### <h2>I,m Damar Rifaldi Mutakin<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"><p><em> Junior Software Engineer and Student Institutet tecnologi Sumatera   
 <div align="center">
+<img src="https://ibb.co.com/CX9zchx" align="center" height="" width="600" />
 </div>  
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> 😊</em></p>
 <hr>  
