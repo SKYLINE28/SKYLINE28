@@ -108,7 +108,7 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-SKYLINE28-181717?style=for-the-badge&logo=github)](https://github.com/SKYLINE28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fensyde@email.com)
 
 </div>
 
