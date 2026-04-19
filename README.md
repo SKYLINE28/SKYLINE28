@@ -66,29 +66,29 @@ me.say_hi()
 
 #### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <span>(scripting & automation)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <span>(performance & gamedev)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <span>(interactive web)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <span>(OOP fundamentals)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <span>(cross-platform apps)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <span>(server-side scripting)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
 </p>
 
 #### 🌐 Web & Mobile
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" /> <span>(semantic markup & styling)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <span>(UI component library)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <span>(server-side JS)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <span>(robust PHP framework)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <span>(beautiful mobile UI)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
 </p>
 
 #### 🧰 Tools & Environments
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <span>(version control)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <span>(primary IDE)</span>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <span>(interface design)</span> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/UI/UX-FFD700?style=for-the-badge&logoColor=white" alt="UI/UX" /> <span>(user interface & experience)</span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/status-learning-blue" alt="Learning" />
+  <img src="https://img.shields.io/badge/UI/UX-FFD700?style=for-the-badge&logoColor=white" alt="UI/UX" />
 </p>
 
 </div>
